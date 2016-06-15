@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Carlows/angular-styleguide.png?label=ready&title=Ready)](https://waffle.io/Carlows/angular-styleguide)
 # Angular Style Guide
 
 ## Angular Team Endorsed
